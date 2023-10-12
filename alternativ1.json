@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "title": "Hva er JSX i React?",
+      "answers": [
+        { "answer": "En JavaScript ekstensjon for å skrive HTML i JS." },
+        { "answer": "En database grensesnitt." },
+        { "answer": "En nytt programmeringsspråk." },
+        { "answer": "En utvidelse som gjør det enklere å skrive HTML-liknende kode", "correct": true }
+      ],
+      "helper": {
+        "text": "JSX tillater oss å skrive HTML-elementer i JavaScript."
+      }
+    },
+    {
+      "title": "Hva bruker man 'useState' til i React?",
+      "answers": [
+        { "answer": "For å lage nye komponenter." },
+        { "answer": "For å definere komponentens tilstand." },
+        { "answer": "For å koble til en database." },
+        { "answer": "For å oppdatere eksisterende verdier i komponenter", "correct": true }
+      ],
+      "helper": {
+        "text": "'useState' er en hook i React som lar deg legge til reaktiv tilstand til funksjonskomponenter."
+      }
+    },
+    {
+      "title": "Hva er en 'prop' i React?",
+      "answers": [
+        { "answer": "En funksjon i en komponent." },
+        { "answer": "En database tilkobling." },
+        { "answer": "En parameter sendt til en komponent.", "correct": true },
+        { "answer": "En React library for autentisering." }
+      ],
+      "helper": {
+        "text": "'Props' er en spesiell nøkkelord i React, som står for egenskaper. Den er sendt fra en foreldrekomponent til en barnkomponent."
+      }
+    },
+    {
+      "title": "Hva er React hovedsakelig brukt for?",
+      "answers": [
+        { "answer": "Styling av webapplikasjoner" },
+        { "answer": "Databasehåndtering" },
+        { "answer": "Å bygge brukergrensesnitt i webapplikasjoner", "correct": true },
+        { "answer": "Å sette opp servere" }
+      ],
+      "helper": {
+        "text": "React er et JavaScript-bibliotek for å bygge brukergrensesnitt."
+      }
+    }
+  ]
+}
